@@ -4,7 +4,7 @@ A modern Android application built entirely with Jetpack Compose that allows use
 
 ## Demo 🎥
 
-![App Demo](./ScreenRecording.gif)
+![App Demo](./Screen Recording.gif)
 
 ## Screenshots
 
