@@ -30,6 +30,12 @@ Unlike generic sports apps, FootballHUB focuses on a **clean, vector-art inspire
 |:---:|:---:|:---:|:---:|
 | <img src="Ss/splash_screen.png" width="200"> | <img src="Ss/Welcome_screen.png" width="200"> | <img src="Ss/Main_screen.png" width="200"> | <img src="Ss/player_result.png" width="200"> |
 
+
+## 🎥 App Demo
+
+https://github.com/user-attachments/assets/da1097fa-3d92-461c-8e73-5e9de9cb4891
+
+
 > *The interface features a custom vector-based design language, ensuring high readability and visual appeal.*
 
 ## ⚡ Getting Started
